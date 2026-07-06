@@ -10,15 +10,6 @@ A modern SharePoint Framework web part built as a learning and portfolio project
 
 ![Knowledge hub details preview](assets/page2.png)
 
-## Why this project matters
-
-This project is a strong example for a resume or interview because it demonstrates:
-
-- SharePoint Framework development with React and TypeScript
-- Fluent UI component usage for modern UI patterns
-- Structured front-end architecture for reusable components
-- Integration-ready design for SharePoint and Microsoft 365 services
-- A practical business use case: employee knowledge and documentation portal
 
 ## Key features
 

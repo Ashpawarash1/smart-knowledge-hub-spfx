@@ -1,0 +1,19 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "useGulp": false,
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.14.0",
+    "sdksVersions": {},
+    "version": "1.23.0",
+    "libraryName": "smart-knowledge-hub-spfx",
+    "libraryId": "25a80884-4be6-4b85-b889-780b25f5e90a",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "smart-knowledge-hub-spfx",
+    "solutionShortDescription": "smart-knowledge-hub-spfx description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

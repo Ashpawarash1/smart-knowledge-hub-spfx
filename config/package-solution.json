@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "smart-knowledge-hub-spfx-client-side-solution",
+    "id": "25a80884-4be6-4b85-b889-780b25f5e90a",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.23.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "smart-knowledge-hub-spfx description"
+      },
+      "longDescription": {
+        "default": "smart-knowledge-hub-spfx description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "smart-knowledge-hub-spfx Feature",
+        "description": "The feature that activates elements of the smart-knowledge-hub-spfx solution.",
+        "id": "d37e9e6c-2586-4e6b-961b-c7e4ee7cfec3",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/smart-knowledge-hub-spfx.sppkg"
+  }
+}

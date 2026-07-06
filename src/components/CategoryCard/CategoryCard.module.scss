@@ -1,0 +1,26 @@
+.card {
+  cursor: pointer;
+  padding: 20px;
+  border-radius: 10px;
+  transition: all .25s ease;
+  min-height: 130px;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+}
+
+.icon {
+  font-size: 28px;
+  margin-bottom: 12px;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.count {
+  margin-top: 8px;
+  color: #666;
+}
